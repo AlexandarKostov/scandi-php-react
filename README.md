@@ -34,11 +34,7 @@ To get started, follow these steps:
 4. **Configure Environment:**
 
    - Rename the `.env.example` file in the root directory to `.env` and update the necessary variables.
-
-   ```bash
-    mv .env.example .env
-   ```
-
+     
 5. **Database Setup:**
 
    - Create a database with the same name specified in `.env` 
